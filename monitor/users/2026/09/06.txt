@@ -1,0 +1,38 @@
+Fetching events for target(s): alexholehouse, HFChenLab, Junjie-Zhu, sirius777coder, Barakhsaana, Zuricho, Immortals-33, weitinging, ji-xiaoyue, Zirui-Fan, borrytod, xlab-BioAI, SII-ShenggengLin, xtanh, wangwrx, tyang816, mingchen-li, code4luck, zy-zhou, riacd, terry-r123, bzho3923, Xinheng-He, lujiarui, ChenDdon, AspirinCode, bjing2016, prokia, Gonglab-THU, meneshail, xinshi-chen, amyxlu, LirongWu, OdinZhang, EDAPINENUT, QizhiPei, thematrixmaster, zaixizhang, pascalnotin, jsunn-y, Leo-T-Zang, WillHua127, wenjiegroup, Shenggan, yangnianzu0515, chao1224, blt2114, Oxer11, shichence, ChrisAllenMing, jchodera, jgreener64, HannesStark, Peldom, luost26, sokrypton...
+
+2026-09-06 04:07:01 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [d4532ed] (expanded) esmfold2 experimental confidence head: the three missing heads are gated
+2026-09-06 03:12:18 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [8026170] (expanded) Keep the licence dialog's short form
+2026-09-06 00:20:12 | 🚀 alexholehouse pushed to holehouse-lab/protfasta
+    - [1e0ef83] (expanded) Update for 0.1.24; see changelog
+2026-09-05 23:46:04 | ⭐️ Zuricho starred ai4protein/VenusFold
+2026-09-05 23:39:48 | ⭐️ Zuricho starred lujiarui/biomol-viewer
+2026-09-05 22:14:07 | 💬 sokrypton created issue 'Add openbind porter' in sokrypton/alphafold3
+2026-09-05 22:04:21 | ⭐️ sokrypton starred sokrypton/localfold
+2026-09-05 21:07:53 | 🚀 AspirinCode pushed to AspirinCode/awesome-AI4MolConformation-MD
+    - [8d901ed] (expanded) Add STORMM publication reference to README
+2026-09-05 14:45:52 | ⭐️ Zuricho starred jtrinquier/SoftAlign
+2026-09-05 14:45:37 | ⭐️ Zuricho starred delalamo/SAbR
+2026-09-05 14:30:18 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [093ba84] (expanded) esmfold2 REGISTERED: the shared AF3 graph derives 346 parameters for it
+2026-09-05 14:18:38 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [bb54ff6] (expanded) esmfold2 atom attention: AF3's windowed machinery fits, with a 192-key window and a rank mask
+2026-09-05 13:55:40 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [df2138d] (expanded) REWORK esmfold2 onto the shared AF3 graph: delete the separate module tree, gate the recycle step
+2026-09-05 13:00:52 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [6b40be3] (expanded) Let a template be typed, and stop the popup moving while it is chosen
+2026-09-05 12:42:47 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [9333955] (expanded) render.html: the preview draws on the GPU
+2026-09-05 11:53:46 | 🔹 lujiarui performed PublicEvent on lujiarui/biomol-viewer
+2026-09-05 10:58:50 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [797cb15] (expanded) Keep Protein Hunter out of the README
+2026-09-05 10:57:48 | 🚀 sokrypton pushed to sokrypton/localfold
+    - [2d7264c] (expanded) Clear the root, and write a README for people who fold things
+2026-09-05 10:28:51 | ⭐️ Immortals-33 starred delalamo/SAbR
+2026-09-05 09:58:52 | 🚀 sokrypton pushed to sokrypton/py2Dmol
+    - [6998bb3] (expanded) objects: a sele row cannot claim a selection it does not address
+2026-09-05 09:53:31 | 🚀 lujiarui pushed to lujiarui/pomo
+    - [152204f] (expanded) Initial commit v1.0
+2026-09-05 06:21:34 | 🚀 sokrypton pushed to sokrypton/alphafold3
+    - [93be540] (expanded) port Protenix-v1, and route the whole family through one tuple

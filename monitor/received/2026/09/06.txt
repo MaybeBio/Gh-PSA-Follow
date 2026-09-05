@@ -1,0 +1,7 @@
+Fetching events for target(s): Junjie-Zhu...
+
+2026-09-05 23:46:04 | ⭐️ Zuricho starred ai4protein/VenusFold
+2026-09-05 23:39:48 | ⭐️ Zuricho starred lujiarui/biomol-viewer
+2026-09-05 11:53:46 | 🔹 lujiarui performed PublicEvent on lujiarui/biomol-viewer
+2026-09-05 09:53:31 | 🚀 lujiarui pushed to lujiarui/pomo
+    - [152204f] (expanded) Initial commit v1.0
